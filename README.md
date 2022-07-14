@@ -1,3 +1,3 @@
 # API_Testing_Postman_Newman
 
-The URL: testingworld.com
+The URL: thetestingworldapi.com
